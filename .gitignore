@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+.env
+content/*.pdf
+content/extracted_pages.json
+work/
+outputs/
+*.tsbuildinfo
