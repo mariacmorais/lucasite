@@ -6,7 +6,7 @@ frontend API key.
 
 ## Run locally
 
-Requirements: Node.js 20+, pnpm 11+, and Python 3.10+.
+Requirements: Node.js 22.13+ (Node 24 recommended), pnpm 11+, and Python 3.10+.
 
 ```bash
 pnpm install
